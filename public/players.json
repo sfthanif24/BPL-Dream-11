@@ -1,0 +1,322 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 9.7,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1500000,
+    "playerImg": "https://en.wikipedia.org/wiki/Virat_Kohli"
+  },
+  {
+    "playerName": "Rohit Sharma",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 9.5,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1450000,
+    "playerImg": "https://en.wikipedia.org/wiki/Rohit_Sharma"
+  },
+  {
+    "playerName": "K.L. Rahul",
+    "playerCountry": "India",
+    "playerType": "Wicketkeeper-Batsman",
+    "rating": 8.9,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 900000,
+    "playerImg": "https://en.wikipedia.org/wiki/K._L._Rahul"
+  },
+  {
+    "playerName": "Suryakumar Yadav",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 8.7,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 850000,
+    "playerImg": "https://en.wikipedia.org/wiki/Suryakumar_Yadav"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 9.6,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1400000,
+    "playerImg": "https://en.wikipedia.org/wiki/Jasprit_Bumrah"
+  },
+  {
+    "playerName": "Ravindra Jadeja",
+    "playerCountry": "India",
+    "playerType": "Allrounder",
+    "rating": 9.0,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "price": 1100000,
+    "playerImg": "https://en.wikipedia.org/wiki/Ravindra_Jadeja"
+  },
+  {
+    "playerName": "Hardik Pandya",
+    "playerCountry": "India",
+    "playerType": "Allrounder",
+    "rating": 8.8,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium-fast",
+    "price": 1050000,
+    "playerImg": "https://en.wikipedia.org/wiki/Hardik_Pandya"
+  },
+  {
+    "playerName": "Shubman Gill",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 8.5,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 750000,
+    "playerImg": "https://en.wikipedia.org/wiki/Shubman_Gill"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 9.4,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1300000,
+    "playerImg": "https://en.wikipedia.org/wiki/Babar_Azam"
+  },
+  {
+    "playerName": "Mohammad Rizwan",
+    "playerCountry": "Pakistan",
+    "playerType": "Wicketkeeper-Batsman",
+    "rating": 8.6,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 800000,
+    "playerImg": "https://en.wikipedia.org/wiki/Mohammad_Rizwan_(cricketer)"
+  },
+  {
+    "playerName": "Shaheen Afridi",
+    "playerCountry": "Pakistan",
+    "playerType": "Bowler",
+    "rating": 8.9,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 920000,
+    "playerImg": "https://en.wikipedia.org/wiki/Shaheen_Afridi"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 9.2,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1200000,
+    "playerImg": "https://en.wikipedia.org/wiki/Kane_Williamson"
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerCountry": "New Zealand",
+    "playerType": "Bowler",
+    "rating": 8.8,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 900000,
+    "playerImg": "https://en.wikipedia.org/wiki/Trent_Boult"
+  },
+  {
+    "playerName": "Tom Latham",
+    "playerCountry": "New Zealand",
+    "playerType": "Wicketkeeper-Batsman",
+    "rating": 7.8,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 400000,
+    "playerImg": "https://en.wikipedia.org/wiki/Tom_Latham"
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playerType": "Wicketkeeper-Batsman",
+    "rating": 9.1,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1100000,
+    "playerImg": "https://en.wikipedia.org/wiki/Jos_Buttler"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "Allrounder",
+    "rating": 9.5,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 1450000,
+    "playerImg": "https://en.wikipedia.org/wiki/Ben_Stokes"
+  },
+  {
+    "playerName": "Joe Root",
+    "playerCountry": "England",
+    "playerType": "Batsman",
+    "rating": 8.9,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 950000,
+    "playerImg": "https://en.wikipedia.org/wiki/Joe_Root"
+  },
+  {
+    "playerName": "Steve Smith",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 9.3,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 1250000,
+    "playerImg": "https://en.wikipedia.org/wiki/Steve_Smith_(cricketer)"
+  },
+  {
+    "playerName": "David Warner",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 9.0,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 1150000,
+    "playerImg": "https://en.wikipedia.org/wiki/David_Warner_(cricketer)"
+  },
+  {
+    "playerName": "Pat Cummins",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 9.1,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1350000,
+    "playerImg": "https://en.wikipedia.org/wiki/Pat_Cummins"
+  },
+  {
+    "playerName": "Mitchell Starc",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 9.3,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 1250000,
+    "playerImg": "https://en.wikipedia.org/wiki/Mitchell_Starc"
+  },
+  {
+    "playerName": "Glenn Maxwell",
+    "playerCountry": "Australia",
+    "playerType": "Allrounder",
+    "rating": 8.7,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 980000,
+    "playerImg": "https://en.wikipedia.org/wiki/Glenn_Maxwell"
+  },
+  {
+    "playerName": "AB de Villiers",
+    "playerCountry": "South Africa",
+    "playerType": "Batsman",
+    "rating": 9.4,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1300000,
+    "playerImg": "https://en.wikipedia.org/wiki/AB_de_Villiers"
+  },
+  {
+    "playerName": "Quinton de Kock",
+    "playerCountry": "South Africa",
+    "playerType": "Wicketkeeper-Batsman",
+    "rating": 8.5,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 780000,
+    "playerImg": "https://en.wikipedia.org/wiki/Quinton_de_Kock"
+  },
+  {
+    "playerName": "Kagiso Rabada",
+    "playerCountry": "South Africa",
+    "playerType": "Bowler",
+    "rating": 8.9,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 980000,
+    "playerImg": "https://en.wikipedia.org/wiki/Kagiso_Rabada"
+  },
+  {
+    "playerName": "Faf du Plessis",
+    "playerCountry": "South Africa",
+    "playerType": "Batsman",
+    "rating": 8.8,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 860000,
+    "playerImg": "https://en.wikipedia.org/wiki/Faf_du_Plessis"
+  },
+  {
+    "playerName": "Chris Gayle",
+    "playerCountry": "West Indies",
+    "playerType": "Batsman",
+    "rating": 9.0,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1100000,
+    "playerImg": "https://en.wikipedia.org/wiki/Chris_Gayle"
+  },
+  {
+    "playerName": "Andre Russell",
+    "playerCountry": "West Indies",
+    "playerType": "Allrounder",
+    "rating": 8.9,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1200000,
+    "playerImg": "https://en.wikipedia.org/wiki/Andre_Russell_(cricketer)"
+  },
+  {
+    "playerName": "Nicholas Pooran",
+    "playerCountry": "West Indies",
+    "playerType": "Wicketkeeper-Batsman",
+    "rating": 8.3,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 700000,
+    "playerImg": "https://en.wikipedia.org/wiki/Nicholas_Pooran"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "rating": 9.0,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 900000,
+    "playerImg": "https://en.wikipedia.org/wiki/Rashid_Khan_(Afghan_cricketer)"
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "Allrounder",
+    "rating": 8.8,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "price": 880000,
+    "playerImg": "https://en.wikipedia.org/wiki/Shakib_Al_Hasan"
+  },
+  {
+    "playerName": "Mustafizur Rahman",
+    "playerCountry": "Bangladesh",
+    "playerType": "Bowler",
+    "rating": 8.2,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "price": 650000,
+    "playerImg": "https://en.wikipedia.org/wiki/Mustafizur_Rahman"
+  }
+]
