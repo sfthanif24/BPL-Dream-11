@@ -6,8 +6,8 @@
     "rating": 9.7,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm medium",
-    "price": 1500000,
-    "playerImg": "https://en.wikipedia.org/wiki/Virat_Kohli"
+    "price": 1500,
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalGtOolpcB1DN_8EJKR862CnkdNH242CRPg&s"
   },
   {
     "playerName": "Rohit Sharma",
@@ -16,7 +16,7 @@
     "rating": 9.5,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": 1450000,
+    "price": 1450,
     "playerImg": "https://en.wikipedia.org/wiki/Rohit_Sharma"
   },
   {
@@ -26,7 +26,7 @@
     "rating": 8.9,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": 900000,
+    "price": 9000,
     "playerImg": "https://en.wikipedia.org/wiki/K._L._Rahul"
   },
   {
@@ -87,7 +87,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "price": 1300000,
-    "playerImg": "https://en.wikipedia.org/wiki/Babar_Azam"
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILoZaIvy5wAU_p6HQJ-HbZxkONDkKw-o7fg&s"
   },
   {
     "playerName": "Mohammad Rizwan",
