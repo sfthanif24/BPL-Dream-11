@@ -3,8 +3,8 @@ import bgShadowImg from "../../../assets/bg-shadow.png";
 
 const Banner = ({ onClaimCredit }) => {
   return (
-    <section id="hero" className="bg-white px-6 pb-4 pt-2 lg:px-10">
-      <div className="mx-auto max-w-7xl">
+    <section id="hero" className=" bg-white px-6 pb-4 pt-2 lg:px-10">
+      <div className="container mx-auto">
         <div className="relative overflow-hidden rounded-[28px] bg-[#111111] px-6 pb-10 pt-9 text-center text-white shadow-[0_20px_50px_rgba(15,23,42,0.16)] sm:px-10 sm:pb-12 sm:pt-10 lg:min-h-96 lg:px-16 lg:pb-12 lg:pt-10">
           <img
             src={bgShadowImg}

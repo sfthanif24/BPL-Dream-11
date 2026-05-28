@@ -1,61 +1,24 @@
-import { Suspense, useState } from "react";
+import "./App.css";
 import Navbar from "./components/Navbar/Navbar";
-import Banner from "./components/HomePage/Banner/Banner";
-import Players from "./components/HomePage/Players/Players";
+import Banner from "./components/Homepage/Banner/Banner";
+import Players from "./components/Players/Players";
+import { Suspense } from "react";
 
 const fetchPlayer = async () => {
-  const response = await fetch("/players.json");
-  return response.json();
+  const res = await fetch("/data.json");
+  return res.json();
 };
 
-const playerPromise = fetchPlayer();
-
 const App = () => {
-  const [coins, setCoins] = useState(0);
-  const [selectedPlayers, setSelectedPlayers] = useState([]);
-
-  const handleClaimCredit = () => {
-    setCoins((currentCoins) => currentCoins + 1000000);
-  };
-
-  const handleSelectPlayer = (player) => {
-    setSelectedPlayers((currentPlayers) => {
-      const alreadySelected = currentPlayers.some(
-        (selectedPlayer) => selectedPlayer.playerName === player.playerName,
-      );
-
-      if (alreadySelected || currentPlayers.length >= 11) {
-        return currentPlayers;
-      }
-
-      return [...currentPlayers, player];
-    });
-  };
-
-  const handleExplorePlayers = () => {
-    const playersSection = document.getElementById("players-section");
-
-    if (playersSection) {
-      playersSection.scrollIntoView({ behavior: "smooth", block: "start" });
-    }
-  };
-
+  const playersPromise = fetchPlayer();
   return (
-    <div className="min-h-screen bg-[#f7f7f7] text-slate-900">
-      <Navbar coins={coins} onClaimCredit={handleClaimCredit} />
-      <Banner
-        coins={coins}
-        onClaimCredit={handleClaimCredit}
-        onExplorePlayers={handleExplorePlayers}
-      />
+    <div>
+      <Navbar />
+      <Banner />
       <Suspense
         fallback={<span className="loading loading-spinner loading-xl"></span>}
       >
-        <Players
-          playerPromise={playerPromise}
-          selectedPlayers={selectedPlayers}
-          onSelectPlayer={handleSelectPlayer}
-        />
+        <Players playersPromise={playersPromise} />
       </Suspense>
     </div>
   );
